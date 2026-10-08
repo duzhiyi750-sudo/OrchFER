@@ -4,4 +4,5 @@ Keywords: facial expression recognition, orchestration relationship, expressive 
  <img width="921" height="483" alt="image" src="https://github.com/user-attachments/assets/71992a29-6003-4d06-93e2-69c2364f5456" />
 
 Fig. 3. Overview of the proposed OrchFER. The extracted spatiotemporal features are purified by ERP to obtain expressive tokens. ORM organizes orchestral segments with LLM-guided semantic cues, producing orchestral tokens. Cross-modal feature interaction then integrates expressive and orchestral representations for final expression prediction.
+
 The source code will be available after accepted
